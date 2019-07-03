@@ -1,3 +1,11 @@
+My responsilities for this project included: 
+* Creating a UML
+* Setting up react routing using react-router-dom
+* Setting up back end timer
+* Allowing users to submit answers to initial prompts
+* Allowing users to vote on which prompt they liked better
+* Allowing users to submit their own prompt to database
+
 # Quip Thinking
 [![Build Status](https://travis-ci.com/nyu-software-engineering/quip-thinking.svg?branch=master)](https://travis-ci.com/nyu-software-engineering/quip-thinking)
 
