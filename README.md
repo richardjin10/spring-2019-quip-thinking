@@ -1,4 +1,4 @@
-My responsilities for this project included: 
+ # My responsilities for this project included: 
 * Creating a UML
 * Setting up react routing using react-router-dom
 * Setting up back end timer
